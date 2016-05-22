@@ -27,8 +27,8 @@
     "url": "https://github.com/roadmanfong/react-skycons.git"
   },
   "dependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
     "skycons": "^1.0.0"
   },
   "peerDependencies": {
